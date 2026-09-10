@@ -19,11 +19,11 @@ VALID_CATS = {
 }
 
 BANNERS = {
-    "1": {"name": "The Dynamites (All)", "ids":},
-    "2": {"name": "Galaxy Gals (All)", "ids":},
-    "3": {"name": "Ultra Souls (All)", "ids":},
-    "4": {"name": "Vajiras (JP Excl)", "ids":},
-    "5": {"name": "Dragon Emperors (All)", "ids":}
+    "1": {"name": "The Dynamites (All)", "ids":[]},
+    "2": {"name": "Galaxy Gals (All)", "ids":[]},
+    "3": {"name": "Ultra Souls (All)", "ids":[]},
+    "4": {"name": "Vajiras (JP Excl)", "ids":[]},
+    "5": {"name": "Dragon Emperors (All)", "ids":[]}
 }
 
 BASE_CFG = {
